@@ -132,5 +132,3 @@ ORDER BY total_revenue;
 B.Tech (AI & Data Science)
 
 ---
-
-Just say 👍
